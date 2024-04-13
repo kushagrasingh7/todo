@@ -1,0 +1,59 @@
+/* Body Styles */
+body {
+    background-color: #9AD0C2;
+    font-family: "Montserrat", sans-serif;
+}
+
+/* Heading Styles */
+h1,
+h2 {
+    color: #FFFFFF;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: bold;
+    font-size: 5rem;
+    letter-spacing: 0.5rem;
+}
+
+/* Todo Form Styles */
+.todo-form {
+    background-color: #2D9596;
+}
+
+/* Button Styles */
+.btn {
+    background-color: #265073;
+}
+
+/* Modal Content Styles */
+.modal-content {
+    background-color: #2D9596;
+}
+
+/* Navbar Color Styles */
+.navbar-color {
+    background-color: #265073;
+}
+
+/* Card Header Styles */
+.card-header.today {
+    background-color: #FB88B4;
+}
+
+.card-header.tomorrow {
+    background-color: #FDAE15;
+}
+
+.card-header.upcoming {
+    background-color: #9195F6;
+}
+
+/* Error Message Styles */
+.error {
+    color: red;
+}
+
+/* Description Section Styles */
+.description {
+    background-color: #496989;
+}
